@@ -1,4 +1,4 @@
-# Flask DDoS Protection Web Application
+# PythonRateLimiterCode
 
 This repository contains a simple Flask web application that includes a rate limiting feature to help defend against Distributed Denial of Service (DDoS) attacks.
 
