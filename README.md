@@ -50,27 +50,14 @@ if __name__ == "__main__":
 - **Rate Limiting**: Automatically blocks IP addresses that exceed 100 requests per minute.
 - **Protection Against DDoS Attacks**: Filters malicious traffic and prevents potential abuse.
 
-## Installation
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/username/ddos-protection-flask-app.git
-   cd ddos-protection-flask-app
-   ```
-
-2. **Set Up Environment**:
+1. **Set Up Environment**:
    - Make sure you have Python 3 installed.
    - Install the required packages:
      ```bash
      pip install Flask werkzeug
      ```
 
-3. **Run the Application**:
-   - Simply run the application using:
-     ```bash
-     python app.py
-     ```
-
-4. **Access the Web Application**:
+2. **Access the Web Application**:
    - Open your web browser and navigate to `http://localhost:5000/` to see the application in action.
 
 ## Contributing
